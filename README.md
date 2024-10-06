@@ -1,4 +1,4 @@
-# AG-News-Classification-using-Machine-Learning
+# BBC-News-Classification-using-Machine-Learning
 News Classification Dataset
 Data Source:https://www.kaggle.com/amananandrai/ag-news-classification-dataset/notebooks
 
